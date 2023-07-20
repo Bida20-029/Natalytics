@@ -1,2 +1,0 @@
-# Natalytics
-My personal portfolio
